@@ -1,3 +1,3 @@
-##COVID-19_ANALYSIS
--[x]Fetch API Using https://disease.sh/
+## COVID-19_ANALYSIS
+## &#9745;Fetch API Using https://disease.sh/
 
