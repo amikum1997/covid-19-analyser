@@ -1,5 +1,5 @@
 ## COVID-19_ANALYSIS
-&#9745;Fetch API Using https://disease.sh/
+&#9745;Fetch API Using https://disease.sh/ <br />
 &#9745;Using useEffect 
 &#9745;use of LeafletMap
 &#9745;Fully Organised
