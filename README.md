@@ -7,7 +7,7 @@
 ## screenshots
  :o: wireframe
 ![8477f69bac574a0986234dfa05bebd39](https://user-images.githubusercontent.com/30805079/89271354-356da400-d65a-11ea-9c08-91c85627085f.png) <br />
- :o: Final Screen
+ :o: Final Screen <br />
 ![covid](https://user-images.githubusercontent.com/30805079/89271361-38689480-d65a-11ea-9970-53f66b6c2e0f.png)
 
 ## setup project
